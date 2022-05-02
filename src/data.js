@@ -2,8 +2,8 @@
 export const products = [
   {
     id: 1,
-    img: "https://imgur.com/a/SaCwDWP",
-    link: "",
+    img: "https://i.imgur.com/vcM1m54.png",
+    link: "http://typing.delbertluo.com/",
   },
   {
     id: 2,
