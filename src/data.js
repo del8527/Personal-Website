@@ -2,7 +2,7 @@
 export const products = [
   {
     id: 1,
-    img: "blob:https://imgur.com/a2803525-87ba-4118-a983-7904957c72e5",
+    img: "https://i.imgur.com/QOQFjeZ.png",
     link: "https://github.com/del8527/del-bot",
   },
   {
